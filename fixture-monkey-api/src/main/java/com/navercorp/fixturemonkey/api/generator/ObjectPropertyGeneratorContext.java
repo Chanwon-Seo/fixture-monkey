@@ -85,3 +85,4 @@ public final class ObjectPropertyGeneratorContext {
 		return this.ownerProperty.getObjectProperty().getProperty();
 	}
 }
+
